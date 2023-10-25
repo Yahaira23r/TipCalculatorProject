@@ -19,7 +19,6 @@
     margin-top: 0;
     text-align: center;
   }
-  
   input {
     padding: 10px;
     border: 1px solid #ccc;
@@ -44,7 +43,6 @@
   button:hover {
     background-color: #572364 ;
   }
-  
   #total {
     font-size: 24px;
     font-weight: bold;
